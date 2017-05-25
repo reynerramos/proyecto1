@@ -147,9 +147,9 @@
       </section>
       <section id="map" class="mapa"></section>
 
- 
+<?php include('footer.html') ?>
 <!-- Librería jQuery requerida por los plugins de JavaScript -->
-<script src="js/jquery.js"></script>
+
 <script src="js/bootstrap.min.js"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="http://maps.google.com/maps/api/js?key=AIzaSyDoIcfK6UNd26QjpPHVOrU0SVSR0ZRH3Zg&callback=initMap"></script>

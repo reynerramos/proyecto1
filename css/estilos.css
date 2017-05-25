@@ -486,6 +486,12 @@ fieldset {
 .button:focus {
   outline: none; }
 
+.footer {
+  display: inline-block;
+  background: #464444;
+  color: #FFF;
+  text-align: center; }
+
 a:hover {
   text-decoration: none; }
 
